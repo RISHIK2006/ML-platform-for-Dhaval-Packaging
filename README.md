@@ -44,7 +44,7 @@ Data Preprocessing → Model Training (XGBoost, Prophet, K-Means)
 
 🚀 6. How to Run (if applicable)
 # Clone the repo
-git clone https://github.com/yourusername/Sales-Forecasting-System.git
+git clone (https://github.com/RISHIK2006/ML-platform-for-Dhaval-Packaging.git)
 cd Sales-Forecasting-System
 
 # Install dependencies
